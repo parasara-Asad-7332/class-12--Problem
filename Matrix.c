@@ -3,7 +3,7 @@
 int main()
 {
     char x;
-    printf("What you like(2*2,3*3,3*2,A3): "); // you what 2*2 enter 1 ,
+    printf("What you like(2*2,3*3,3*2,A3): "); // you what 2*2 enter 1 , you what 3*2 enter 3
     scanf("%c", &x);
     if (x == '1')
     {
@@ -186,4 +186,5 @@ int main()
     }
 
     return 0;
+
 }
