@@ -185,9 +185,9 @@ int main()
         printf("Your A3 Answer is: \n %d %d %d \n %d %d %d \n %d %d %d", A1, A2, A3, B1, B2, B3, C1, C2, C3);
     }
 
-    printf("Thank you for use my code");
 
     return 0;
 
 }
+
 
